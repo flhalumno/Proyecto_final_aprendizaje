@@ -1,0 +1,1 @@
+["num__loan_amnt", "num__loan_int_rate", "num__loan_percent_income", "num__credit_score", "cat__person_home_ownership_OWN", "cat__person_home_ownership_RENT", "cat__loan_intent_EDUCATION", "cat__loan_intent_MEDICAL", "cat__loan_intent_PERSONAL", "cat__loan_intent_VENTURE", "cat__previous_loan_defaults_on_file_Yes"]
