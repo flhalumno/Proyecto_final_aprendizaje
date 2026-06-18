@@ -1,0 +1,1 @@
+{"clasificador__n_estimators": 110, "clasificador__max_depth": 15, "clasificador__min_samples_split": 8, "clasificador__max_features": "log2", "clasificador__min_samples_leaf": 4, "clasificador__criterion": "gini", "clasificador__class_weight": null}
